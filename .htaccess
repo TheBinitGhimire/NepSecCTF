@@ -1,0 +1,4 @@
+Options -Indexes
+
+RewriteEngine On
+Redirect 301 /flag /NepSecCTF.png

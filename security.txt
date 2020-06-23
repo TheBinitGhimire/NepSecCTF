@@ -1,0 +1,5 @@
+Welcome to NepSecCTF!
+
+If you discover any vulnerabilities, please make sure to report them through email to thebinitghimire@gmail.com.
+
+Thanks!
